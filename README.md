@@ -6,4 +6,4 @@ na sala [virtual](https://meet.google.com/lookup/b53ap7ppm2).
 
 ### Tópicos
 
-- [T01](./topicos/01.md)
+- [T01](./topicos/01.md) (02/09/2020 - 04/09/2020)
