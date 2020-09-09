@@ -8,3 +8,4 @@ na sala [virtual](https://meet.google.com/lookup/b53ap7ppm2).
 
 - [T01](./topicos/01.md) (02/09/2020 - 04/09/2020)
 - [T02](./topicos/02.md) (02/09/2020 - 11/09/2020)
+- [T03](./topicos/03.md) (09/09/2020 - 15/09/2020)
