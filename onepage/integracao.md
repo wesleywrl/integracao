@@ -1,4 +1,3 @@
 ## Integração do Produto
 
-Coloque aqui o "resumo" de uma página, no máximo 4 parágrafos,
-400 palavras no máximo, acerca de _Integração do Produto_.
+O processo de Integração do Produto tem como propósito compor os componentes do produto, produzindo um produto integrado consistente com o projeto, e demonstar que os requisitos funcionais e não funcionais são satisfeitos para o ambiente alvo.
