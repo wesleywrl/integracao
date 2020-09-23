@@ -1,5 +1,3 @@
-## Engenharia de Requisitos
-
 ## Projeto de Software
 
 O Projeto de Software (ou _Software Design_) tem por objetivo projetar, criar e implementar artefatos que supram as necessidades identificadas na documentação de requisitos.
