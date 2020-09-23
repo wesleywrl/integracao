@@ -2,7 +2,7 @@
 
 ## Projeto de Software
 
-O Projeto de Software (ou Software Design) tem por objetivo projetar, criar e implementar artefatos que supram as necessidades identificadas na documentação de requisitos.
+O Projeto de Software (ou _Software Design_) tem por objetivo projetar, criar e implementar artefatos que supram as necessidades identificadas na documentação de requisitos.
 
 Há duas etapas no iniciais no Projeto de Software: Projeto Preliminar e Projeto Detalhado. 
 
