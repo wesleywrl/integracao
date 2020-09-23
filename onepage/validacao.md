@@ -1,6 +1,5 @@
 ## Validação
 
-Validação
 Segundo o MPS BR o propósito do processo de Validação é testificar que o produto ou seu componente atende aos requisitos determinados quando colocado no ambiente operacional, ou seja, confirma que esse cumpre suas especificações. 
 Esse processo certifica que o software corresponde às necessidades e expectativas do cliente, determinando dessa forma, o nível de qualidade do sistema/software desenvolvido. A pergunta a ser respondida aqui é " Fizemos o software correto ?". Nesse processo avaliamos se o que foi desenvolvido atende a regra de negócio do cliente e se ele literalmente está pagando por algo que supri suas necessidades, provavelmente definidas no levantamento de requisitos.
 A norma pertinente a esse processo é a IEEE 1012, sendo utilizada para padronizar os processo que serão utilizados pela organização na Validação. Dentre seus processos estão a análise, revisão, inspeção, avaliação e teste de produto. A norma ajuda a definir tarefas, entradas, saídas esperadas em cada ciclo de vida e o Plano de verificação e validação, incluindo exemplos e formas que servem de diretivas.
