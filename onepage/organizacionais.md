@@ -1,6 +1,6 @@
-Processos Organizacionais
+## Processos organizacionais
 
-  Os processos organizacionais são os processos concebidos para fornecer os recursos necessários para que o projeto/serviço atenda às expectativas e necessidades das partes interessadas da organização. 
+Os processos organizacionais são os processos concebidos para fornecer os recursos necessários para que o projeto/serviço atenda às expectativas e necessidades das partes interessadas da organização. 
   
 Esses processos são divididos em Gerência de configuração, Aquisição, Medição, Gerência de Decisões, Gerência de Recursos Humanos, Gerência de Processos e Gerência Organizacional:
   
