@@ -13,7 +13,7 @@ O teste de aceitação pode revelar erros e omissões na definição dos requisi
 problemas de requisitos em que os recursos do sistema não atendam às necessidades do usuário ou o desempenho do sistema seja inaceitável.
 Dessa forma, fica visível a grande importância desse processo quando se deseja produzir softwares de alta qualidade.
 
-* Junit - https://junit.org/junit5/
+* JUnit - https://junit.org/junit5/
 
 Referências
 Sommerville, Ian Engenharia de Software / Ian Sommerville; tradução Ivan Bosnic e Kalinka G. de O. Gonçalves; revisão técnica Kechi Hirama. — 9. ed. — São Paulo: Pearson Prentice Hall, 2011. 
