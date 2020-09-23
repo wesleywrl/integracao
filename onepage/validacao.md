@@ -11,8 +11,8 @@ O Testes de desenvolvimento é onde os componentes do sistema são testados pela
 Já nos Testes de sistema, componentes do sistema são integrados para criar um sistema completo. Preocupando-se em encontrar os erros resultantes das interações inesperadas entre componentes e problemas de interface do componente. Também visa mostrar que o sistema satisfaz seus requisitos funcionais e não funcionais, bem como testar as propriedades emergentes do sistema.
 
 Por último, estão os Testes de aceitação, onde o sistema é testado com dados fornecidos pelo cliente, e não com dados advindos de testes simulados.
-O teste de aceitação pode revelar erros e omissões na definição dos requisitos do sistema, pois dados reais exercitam o sistema de formas diferentes dos dados de teste, revelando
-problemas de requisitos em que os recursos do sistema não atendam às necessidades do usuário ou o desempenho do sistema seja inaceitável.
+O teste de aceitação pode revelar erros e omissões na definição dos requisitos do sistema, pois dados reais exercitam o sistema de formas diferentes dos dados de teste, revelando problemas de requisitos em que os recursos do sistema não atendam às necessidades do usuário ou o desempenho do sistema seja inaceitável.
+
 Dessa forma, fica visível a grande importância desse processo quando se deseja produzir softwares de alta qualidade.
 
 * JUnit - https://junit.org/junit5/
