@@ -6,12 +6,14 @@ Esse processo certifica que o software corresponde às necessidades e expectativ
 A norma pertinente a esse processo é a IEEE 1012, sendo utilizada para padronizar os processo que serão utilizados pela organização na Validação. Dentre seus processos estão a análise, revisão, inspeção, avaliação e teste de produto. A norma ajuda a definir tarefas, entradas, saídas esperadas em cada ciclo de vida e o Plano de verificação e validação, incluindo exemplos e formas que servem de diretivas.
 Segundo Sommerville, existem muitos processos de software diferentes, mas todos devem incluir quatro atividades fundamentais para a engenharia de software. Entre essas 4 atividades está o processo de validação de software. Segundo o autor, o Teste de programa, em que o sistema é executado com dados de testes simulados, é a principal técnica de validação. 
 Para ele, esse processo é iterativo e se divide em 3, Teste de desenvolvimento, de sistema e de aceitação.
-O Testes de desenvolvimento é onde os componentes do sistema são testados pelas pessoas que o desenvolveram. Ferramentas de automação de teste, como JUnit (MASSOL e HUSTED, 2003), que podem reexecutar testes de componentes quando as novas versões dos componentes são criadas, são comumente usadas.
+O Testes de desenvolvimento é onde os componentes do sistema são testados pelas pessoas que o desenvolveram. Ferramentas de automação de teste, como JUnit* (MASSOL e HUSTED, 2003), que podem reexecutar testes de componentes quando as novas versões dos componentes são criadas, são comumente usadas.
 Já nos Testes de sistema, componentes do sistema são integrados para criar um sistema completo. Preocupando-se em encontrar os erros resultantes das interações inesperadas entre componentes e problemas de interface do componente. Também visa mostrar que o sistema satisfaz seus requisitos funcionais e não funcionais, bem como testar as propriedades emergentes do sistema.
 Por último, estão os Testes de aceitação, onde o sistema é testado com dados fornecidos pelo cliente, e não com dados advindos de testes simulados.
 O teste de aceitação pode revelar erros e omissões na definição dos requisitos do sistema, pois dados reais exercitam o sistema de formas diferentes dos dados de teste, revelando
 problemas de requisitos em que os recursos do sistema não atendam às necessidades do usuário ou o desempenho do sistema seja inaceitável.
 Dessa forma, fica visível a grande importância desse processo quando se deseja produzir softwares de alta qualidade.
+
+* Junit - https://junit.org/junit5/
 
 Referências
 Sommerville, Ian Engenharia de Software / Ian Sommerville; tradução Ivan Bosnic e Kalinka G. de O. Gonçalves; revisão técnica Kechi Hirama. — 9. ed. — São Paulo: Pearson Prentice Hall, 2011. 
