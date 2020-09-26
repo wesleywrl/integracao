@@ -1,5 +1,3 @@
 ## Verificação
-
-Verificação é o processo que tem como propósito checar se um produto de software está de acordo com seus requisitos.
-
-A verificação demanda a construção de testes que simulem o funcionamento do software em situações diversas, a fim de evidenciar falhas que poderiam ocorrer durante o funcionamento do produto final (identificar os problemas, para que possam ser corrigidos).
+Verificação é o processo que tem como propósito checar se um produto de software está de acordo com seus requisitos, ou seja, busca responder a pergunta "estamos construindo o produto corretamente?" ao longo do ciclo de vida do software.
+A verificação pode ser realizada dinamicamente, o que implica na construção de testes que avaliem o funcionamento do software sob as situações em que espera-se que funcione, a fim de evidenciar falhas que poderiam comprometer a qualidade do produto final (identificar os problemas durante a execução, para que possam ser corrigidos). Outro aspecto da verificaão é a inspeção (verificação estática, ou seja, fora do tempo de execução), que pode ser feita não apenas para o código, mas também para a documentação.
