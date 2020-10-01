@@ -17,9 +17,28 @@ Dessa forma, fica visível a grande importância desse processo quando se deseja
 
 * JUnit - https://junit.org/junit5/
 
-Referências
+## Validação sob a ótica do SWEBOK V 3.0
+
+Segundo o Swebok, a qualidade do software é definida como a capacidade do produto de software de satisfazer as necessidades implícitas sob condições especificadas, e como o grau em que esse produto de software atende aos requisitos estabelecidos, ressaltando assim, a importância da elaboração, manutenção e qualidade dos requisitos de software.
+A qualidade de software, de acordo com o Swebok, está dividida em 4 tópicos, Fundamentos de qualidade de software, Processos de gerenciamento de qualidade de software, Considerações práticas e  Ferramentas de qualidade de software.
+
+O processo de Validação está incluso no tópico Processos de gerenciamento de qualidade de software, que define processos, proprietários de processos, requisitos para os processos, medições do processos e suas saídas e canais de feedback ao longo de todo o ciclo de vida do software.Dessa forma, o processo de Validação busca garantir que o produto cumpre com a finalidade pretendida e especificada, tendo como objetivo, juntamente com o processo de Verificação, ajudar o setor de desenvolvimento a construir o sistema com qualidade durante o ciclo de vida do software.
+
+Sob essa perspectiva, a Validação inicia-se já no início do processo de desenvolvimento ou manutenção do software, fornecendo um exame das principais características do produto em relação às  versões anteriores e às especificações a serem atendida. Esse exame, visa demonstrar se os requisitos são corretos, completos, precisos, consistentes e testáveis.
+
+Como todo processo, a Validação também deve possuir planejamento, a fim de garantir que cada recurso, função e responsabilidade é claramente atribuído. Nessa fase serão gerados documentos, que devem descrever recursos, funções, atividades, técnicas e ferramentas a serem usadas no processo. Além disso,  irá incluir fases de análise,revisão, inspeção, avaliação e teste de produtos,abrangendo em seu escopo sistemas, software e hardware.
+
+Em todo o processo de V&V, serão abordados a gestão, comunicação, políticas e procedimentos das atividades de V&V e sua interação, bem como relatórios de defeitos e requisitos de documentação.
+
+Assim sendo, observa-se que a Validação é um importante processo dentro de todo o ciclo de vida do software quando se pretende garantir sua qualidade e que suas saídas, quando aprovadas,  servirão como entradas para o processo seguinte ou como evidências para a correção de algum ponto no software que esteja em desacordo com os requisitos estabelecidos.
+
+
+## Referências
+
 Sommerville, Ian Engenharia de Software / Ian Sommerville; tradução Ivan Bosnic e Kalinka G. de O. Gonçalves; revisão técnica Kechi Hirama. — 9. ed. — São Paulo: Pearson Prentice Hall, 2011. 
 PESSONI, Vinicius.Normas ISO / IEEE Importantes no Teste de Software.viniciuspessoni.com,2012.Disponível em: https://viniciuspessoni.com/2012/01/11/normas-iso-ieee-importantes-no-teste-de-software/#:~:text=O%20IEEE%20Std%201012%2D2004,os%20quais%20servem%20de%20diretivas. Acesso em: 16 de Setembro de 2020.
 Verificação e validação.Wikipedia.org, 2018 . Disponível em: https://pt.wikipedia.org/wiki/Verifica%C3%A7%C3%A3o_e_valida%C3%A7%C3%A3o. Acesso em: 16 de Setembro de 2020.
 IEEE Std. 1012. people.eecs.ku.edu, 2020. Disponível em: https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf . Acesso em: 16 de Setembro de 2020.
+SWEBOK. Guide to the Software Engineering Body of Knowledge. 2004 Version.project of the IEEE Computer Society Professional Practices Committee. Disponível em: <http://www.swebok.org/>. Acesso em: 30 de Setembro de 2020.
+
 
