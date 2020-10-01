@@ -35,10 +35,14 @@ Assim sendo, observa-se que a Validação é um importante processo dentro de to
 
 ## Referências
 
-Sommerville, Ian Engenharia de Software / Ian Sommerville; tradução Ivan Bosnic e Kalinka G. de O. Gonçalves; revisão técnica Kechi Hirama. — 9. ed. — São Paulo: Pearson Prentice Hall, 2011. 
+Sommerville, Ian Engenharia de Software / Ian Sommerville; tradução Ivan Bosnic e Kalinka G. de O. Gonçalves; revisão técnica Kechi Hirama. — 9. ed. — São Paulo: Pearson Prentice Hall, 2011.
+
 PESSONI, Vinicius.Normas ISO / IEEE Importantes no Teste de Software.viniciuspessoni.com,2012.Disponível em: https://viniciuspessoni.com/2012/01/11/normas-iso-ieee-importantes-no-teste-de-software/#:~:text=O%20IEEE%20Std%201012%2D2004,os%20quais%20servem%20de%20diretivas. Acesso em: 16 de Setembro de 2020.
+
 Verificação e validação.Wikipedia.org, 2018 . Disponível em: https://pt.wikipedia.org/wiki/Verifica%C3%A7%C3%A3o_e_valida%C3%A7%C3%A3o. Acesso em: 16 de Setembro de 2020.
+
 IEEE Std. 1012. people.eecs.ku.edu, 2020. Disponível em: https://people.eecs.ku.edu/~hossein/Teaching/Stds/1012.pdf . Acesso em: 16 de Setembro de 2020.
+
 SWEBOK. Guide to the Software Engineering Body of Knowledge. 2004 Version.project of the IEEE Computer Society Professional Practices Committee. Disponível em: <http://www.swebok.org/>. Acesso em: 30 de Setembro de 2020.
 
 
